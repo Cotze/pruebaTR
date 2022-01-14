@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\Modelar-gerente.exe
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\Modelar-gerente.deps.json
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\Modelar-gerente.runtimeconfig.json
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\Modelar-gerente.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\Modelar-gerente.dll
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\ref\Modelar-gerente.dll
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\bin\Debug\net5.0\Modelar-gerente.pdb
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.AssemblyInfo.cs
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.dll
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\ref\Modelar-gerente.dll
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.pdb
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.genruntimeconfig.cache
+C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.csproj.AssemblyReference.cache
