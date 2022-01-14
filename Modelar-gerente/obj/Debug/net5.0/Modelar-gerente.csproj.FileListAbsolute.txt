@@ -14,3 +14,6 @@ C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\ref\
 C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.pdb
 C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.genruntimeconfig.cache
 C:\Users\dell\source\repos\Modelar-gerente\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.csproj.AssemblyReference.cache
+C:\Users\Inpresion3D\source\repos\pruebaTR\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.dll
+C:\Users\Inpresion3D\source\repos\pruebaTR\Modelar-gerente\obj\Debug\net5.0\ref\Modelar-gerente.dll
+C:\Users\Inpresion3D\source\repos\pruebaTR\Modelar-gerente\obj\Debug\net5.0\Modelar-gerente.pdb

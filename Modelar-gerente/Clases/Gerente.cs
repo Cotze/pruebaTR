@@ -4,4 +4,9 @@
     {
         string puesto;
     }
+
+    public string Gerente( string puesto)
+    {
+        this.puesto = puesto;
+    }
 }

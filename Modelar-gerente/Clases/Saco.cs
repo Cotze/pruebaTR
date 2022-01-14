@@ -1,4 +1,5 @@
 ﻿using Modelar_gerente.Interfaces;
+using Modelar_gerente.Clases;
 
 namespace Modelar_gerente.Clases
 {
@@ -6,10 +7,13 @@ namespace Modelar_gerente.Clases
     {
         
         int botones;
+        string vestimenta : Vestimenta
 
-        public Saco( int botones)
+
+        public Saco( int botones, string vestimenta)
         { 
             this.botones = botones;
+            this.vestimenta = vestimenta;
         }
 
         public string Vestirse()
