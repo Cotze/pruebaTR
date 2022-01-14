@@ -5,14 +5,9 @@
         string Vestirse();
     }
 
-    public interface ITrabajar
+    public interface IEntrevistar
     {
-        string Trabajar();
-    }
-
-    public interface IEntrevestar
-    {
-        string Entrevistar();
+        string Entrevista();
     }
 
     public interface IDatosEmpleado
