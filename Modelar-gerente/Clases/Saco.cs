@@ -1,25 +1,23 @@
 ﻿using Modelar_gerente.Interfaces;
-using Modelar_gerente.Clases;
 
+/// <summary>
+/// Aqui en esta clase Se le integra la interfaz de vestirse 
+/// </summary>
 namespace Modelar_gerente.Clases
 {
-    internal class Saco : IVestirse
+    public class Saco 
     {
-        
-        int botones;
-        string vestimenta : Vestimenta
+        #region Variables
+        public int botones;
+        #endregion
 
-
-        public Saco( int botones, string vestimenta)
-        { 
-            this.botones = botones;
-            this.vestimenta = vestimenta;
-        }
-
-        public string Vestirse()
+        /// <summary>
+        /// En este metodo se le asigna el valor que necesita la variable botones para su uso en la clase vestimenta
+        /// </summary>
+        public Saco()
         {
-            string vestirse = $"{botones}";
-            return vestirse;
+            botones = 3;
         }
+      
     }
 }

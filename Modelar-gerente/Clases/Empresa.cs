@@ -1,12 +1,24 @@
-﻿namespace Modelar_gerente.Clases
-{
-    internal class Empresa
-    {
-        string nombreEmpresa;
-    }
+﻿/// <summary>
+/// En el ejemplo no muestra un nombre de alguna empresa donde trabaja el Gerente.
+/// Por ello creé este método para futuras referencias y/o utilizaciones.
+/// </summary>
 
-    public string Empresa( string nombreEmpresa)
+namespace Modelar_gerente.Clases
+{
+    public class Empresa
     {
-        this.nombreEmpresa = nombreEmpresa;
+
+        #region Variable
+        public string nombreEmpresa;
+        #endregion
+
+        /// <summary>
+        /// En este mètodo se agregara el nombre de la empresa para su uso en la clase vestiemnta
+        /// </summary>
+        public Empresa()
+        {
+            this.nombreEmpresa = "EL Economista";
+        }
+
     }
 }
